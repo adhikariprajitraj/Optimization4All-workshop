@@ -1,2 +1,2 @@
 # Optimization4All-workshop
-Compiled codes of Optimization4All workshop sessions.
+This repository will contain the workshop codes and presentations.
